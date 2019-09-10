@@ -17,6 +17,21 @@
                     "product_name": "Basic Dinner",
                     "order_code": "AAA-AA039-L",
                     "district_code": ""
+                },
+                {
+                    "product_name": "Basic Lunch",
+                    "order_code": "AAA-AA038-L",
+                    "district_code": "58QN"
+                },
+                {
+                    "product_name": "Basic Lunch",
+                    "order_code": "AAA-AA038-L",
+                    "district_code": "58QR"
+                },
+                {
+                    "product_name": "Basic Lunch",
+                    "order_code": "AAA-AA038-L",
+                    "district_code": "58QQ"
                 }
             ]
         },
@@ -36,7 +51,22 @@
                 {
                     "product_name": "PINK Dinner",
                     "order_code": "BAA-AA049-L",
+                    "district_code": "58QN"
+                },
+                {
+                    "product_name": "PINK Dinner",
+                    "order_code": "BAA-AA049-L",
                     "district_code": ""
+                },,
+                {
+                    "product_name": "PINK Dinner",
+                    "order_code": "BAA-AA049-L",
+                    "district_code": ""
+                },,
+                {
+                    "product_name": "PINK Dinner",
+                    "order_code": "BAA-AA049-L",
+                    "district_code": "58QS"
                 }
             ]
         }
