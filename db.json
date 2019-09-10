@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "kitchent_name": "Kitchen Name 1",
+            "orders": [
+                {
+                    "order_code": "AAA-AA038-L",
+                    "district_code": "58QQ"
+                },
+                {
+                    "order_code": "AAA-AA039-L",
+                    "district_code": ""
+                }
+            ]
+        },
+        {
+            "kitchent_name": "Kitchen Name 2",
+            "orders": [
+                {
+                    "order_code": "BAA-AA048-D",
+                    "district_code": "58QR"
+                },
+                {
+                    "order_code": "BAA-AA049-L",
+                    "district_code": ""
+                }
+            ]
+        }
+    ]
+}
