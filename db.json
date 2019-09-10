@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "kitchent_name": "Kitchen Name 1",
+            "kitchen_name": "Kitchen Name 1",
             "orders": [
                 {
                     "order_code": "AAA-AA038-L",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "kitchent_name": "Kitchen Name 2",
+            "kitchen_name": "Kitchen Name 2",
             "orders": [
                 {
                     "order_code": "BAA-AA048-D",
