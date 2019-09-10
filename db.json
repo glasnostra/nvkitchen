@@ -4,10 +4,12 @@
             "kitchen_name": "Kitchen Name 1",
             "orders": [
                 {
+                    "product_name": "Basic Lunch",
                     "order_code": "AAA-AA038-L",
                     "district_code": "58QQ"
                 },
                 {
+                    "product_name": "Basic Dinner",
                     "order_code": "AAA-AA039-L",
                     "district_code": ""
                 }
@@ -17,10 +19,12 @@
             "kitchen_name": "Kitchen Name 2",
             "orders": [
                 {
+                    "product_name": "Basic Lunch",
                     "order_code": "BAA-AA048-D",
                     "district_code": "58QR"
                 },
                 {
+                    "product_name": "PINK Dinner",
                     "order_code": "BAA-AA049-L",
                     "district_code": ""
                 }
