@@ -1,74 +1,57 @@
 {
-    "data": [
+    'message':  'DATA_FOUND',
+     'status':  200,
+     'data':  [
         {
-            "kitchen_name": "Kitchen Name 1",
-            "orders": [
+            'kitchen_alias':  'MDC-JL',
+             'kitchen_name':  'MDC Java',
+             'delivery_date':  '20190925',
+             'orders':  [
                 {
-                    "product_name": "Basic Lunch",
-                    "order_code": "AAA-AA038-L",
-                    "district_code": "58QQ"
-                },
-                {
-                    "product_name": "Basic Lunch",
-                    "order_code": "AAA-AA038-L",
-                    "district_code": "58QQ"
-                },
-                {
-                    "product_name": "Basic Dinner",
-                    "order_code": "AAA-AA039-L",
-                    "district_code": ""
-                },
-                {
-                    "product_name": "Basic Lunch",
-                    "order_code": "AAA-AA038-L",
-                    "district_code": "58QN"
-                },
-                {
-                    "product_name": "Basic Lunch",
-                    "order_code": "AAA-AA038-L",
-                    "district_code": "58QR"
-                },
-                {
-                    "product_name": "Basic Lunch",
-                    "order_code": "AAA-AA038-L",
-                    "district_code": "58QQ"
+                    'district_code':  'TH',
+                     'product_name':  'Java Lunch',
+                     'cutleries':  1,
+                     'total':  43
                 }
             ]
         },
-        {
-            "kitchen_name": "Kitchen Name 2",
-            "orders": [
+         {
+            'kitchen_alias':  'MDC-BL',
+             'kitchen_name':  'Medi Catering',
+             'delivery_date':  '20190925',
+             'orders':  [
                 {
-                    "product_name": "Basic Lunch",
-                    "order_code": "BAA-AA048-D",
-                    "district_code": "58QR"
-                },
+                    'district_code':  'TH',
+                     'product_name':  'Basic Lunch',
+                     'cutleries':  0,
+                     'total':  55
+                }
+            ]
+        },
+         {
+            'kitchen_alias':  'AKS-HL',
+             'kitchen_name':  'ANGKASA KITCHEN',
+             'delivery_date':  '20190925',
+             'orders':  [
                 {
-                    "product_name": "PINK Dinner",
-                    "order_code": "BAA-AA049-L",
-                    "district_code": ""
-                },
+                    'district_code':  'TH',
+                     'product_name':  'Healthy Lunch',
+                     'cutleries':  1,
+                     'total':  35
+                }
+            ]
+        },
+         {
+            'kitchen_alias':  'KMM-MSM-L',
+             'kitchen_name':  'Kantin 3 Mama',
+             'delivery_date':  '20190925',
+             'orders':  [
                 {
-                    "product_name": "PINK Dinner",
-                    "order_code": "BAA-AA049-L",
-                    "district_code": "58QN"
-                },
-                {
-                    "product_name": "PINK Dinner",
-                    "order_code": "BAA-AA049-L",
-                    "district_code": ""
-                },
-                {
-                    "product_name": "PINK Dinner",
-                    "order_code": "BAA-AA049-L",
-                    "district_code": ""
-                },
-                {
-                    "product_name": "PINK Dinner",
-                    "order_code": "BAA-AA049-L",
-                    "district_code": "58QS"
+                    'district_code':  'TH',
+                     'product_name':  'Masakan Mama - Lunch',
+                     'cutleries':  1,
+                     'total':  17
                 }
             ]
         }
-    ]
 }
