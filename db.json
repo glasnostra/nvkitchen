@@ -1,58 +1,34 @@
 {
-    "message":  "DATA_FOUND",
-     "status":  200,
-     "data":  [
+    "message": "DATA_FOUND",
+    "status": 200,
+    "data": [
         {
-             "kitchen_alias":  "MDC-JL",
-             "kitchen_name":  "MDC Java",
-             "delivery_date":  "20190925",
-             "orders":  [
-                {
-                    "district_code":  "TH",
-                    "product_name":  "Java Lunch",
-                    "cutleries":  1,
-                    "total":  43
-                }
-            ]
+            "kitchen_alias": "DJK-BL",
+            "kitchen_address": "JL. TERNATE NO. 15 A, CIDENG, GAMBIR, JAKPUS, 6P58QR00+, 1",
+            "customer_name": "1B Betary Aisha DJK-BL",
+            "customer_phone": "6282298025044",
+            "customer_email": "betary.aisha@gmail.com",
+            "delivery_notes": "",
+            "product_name": "Basic Lunch",
+            "usecase": "lunch-time",
+            "delivery_time": "12:00",
+            "delivery_lon": 106.82054,
+            "delivery_lat": -6.203772,
+            "place_name": ""
         },
-         {
-             "kitchen_alias":  "MDC-BL",
-             "kitchen_name":  "Medi Catering",
-             "delivery_date":  "20190925",
-             "orders":  [
-                {
-                    "district_code":  "TH",
-                     "product_name":  "Basic Lunch",
-                     "cutleries":  0,
-                     "total":  55
-                }
-            ]
-        },
-         {
-             "kitchen_alias":  "AKS-HL",
-             "kitchen_name":  "ANGKASA KITCHEN",
-             "delivery_date":  "20190925",
-             "orders":  [
-                {
-                     "district_code":  "TH",
-                     "product_name":  "Healthy Lunch",
-                     "cutleries":  1,
-                     "total":  35
-                }
-            ]
-        },
-         {
-            "kitchen_alias":  "KMM-MSM-L",
-             "kitchen_name":  "Kantin 3 Mama",
-             "delivery_date":  "20190925",
-             "orders":  [
-                {
-                    "district_code":  "TH",
-                    "product_name":  "Masakan Mama - Lunch",
-                    "cutleries":  1,
-                    "total":  17
-                }
-            ]
+        {
+            "kitchen_alias": "KT-TN",
+            "kitchen_address": "JL. PENINGKATAN II, RT.9/RW.3, MENTENG DALAM, KEC. TEBET,  JAKSEL, , ",
+            "customer_name": "1K Betary Aisha KT-TN",
+            "customer_phone": "6282298025044",
+            "customer_email": "betary.aisha@gmail.com",
+            "delivery_notes": "",
+            "product_name": "Kopi Tumbu Kini",
+            "usecase": "snack-time",
+            "delivery_time": "15:00",
+            "delivery_lon": 106.82054,
+            "delivery_lat": -6.203772,
+            "place_name": ""
         }
     ]
 }
